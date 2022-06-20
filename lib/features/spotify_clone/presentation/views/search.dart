@@ -1,8 +1,8 @@
 // ignore_for_file: avoid_unnecessary_containers
 
 import 'package:flutter/material.dart';
-import 'package:spotify_clone/views/seach_bar.dart';
-import 'package:spotify_clone/widgets/album_card_2.dart';
+import 'package:spotify_clone/features/spotify_clone/presentation/widgets/album_card_2.dart';
+import 'package:spotify_clone/features/spotify_clone/presentation/views/seach_bar.dart';
 
 class SearchView extends StatefulWidget {
   SearchView({Key? key}) : super(key: key);

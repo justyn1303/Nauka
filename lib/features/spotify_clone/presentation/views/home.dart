@@ -1,10 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/foundation/key.dart';
-import 'package:flutter/src/widgets/framework.dart';
-import 'package:spotify_clone/views/album_view.dart';
-import 'package:spotify_clone/widgets/album_card.dart';
-import 'package:spotify_clone/widgets/song_card.dart';
-import 'package:spotify_clone/widgets/song_card_2.dart';
+import 'package:spotify_clone/features/spotify_clone/presentation/widgets/album_card.dart';
+import 'package:spotify_clone/features/spotify_clone/presentation/widgets/song_card.dart';
+import 'package:spotify_clone/features/spotify_clone/presentation/widgets/song_card_2.dart';
 
 class HomeView extends StatefulWidget {
   const HomeView({Key? key}) : super(key: key);

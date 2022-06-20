@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:spotify_clone/views/album_view.dart';
+import 'package:spotify_clone/features/spotify_clone/presentation/views/album_view.dart';
 
 class SongCard2 extends StatelessWidget {
   final AssetImage image;

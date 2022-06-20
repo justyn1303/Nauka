@@ -1,9 +1,6 @@
-import 'package:flutter/src/foundation/key.dart';
-import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/material.dart';
-import 'package:spotify_clone/widgets/album_card.dart';
-import 'package:spotify_clone/widgets/album_card_3.dart';
-import 'package:spotify_clone/widgets/album_card_4.dart';
+import 'package:spotify_clone/features/spotify_clone/presentation/widgets/album_card_3.dart';
+import 'package:spotify_clone/features/spotify_clone/presentation/widgets/album_card_4.dart';
 
 class LibraryView extends StatefulWidget {
   const LibraryView({Key? key}) : super(key: key);
